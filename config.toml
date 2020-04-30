@@ -1,6 +1,6 @@
 baseURL = "https://vanpariyar.github.io/myblog/docs"
 languageCode = "en-us"
 title = "Jay Swaminarayan"
-theme = "ananke"
+theme = "twenty-twenty"
 publishDir = "docs"
 

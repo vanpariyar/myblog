@@ -2,13 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jay Swaminarayan</title>
-    <link>https://vanpariyar.github.io/myblog/categories/</link>
+    <link>https://vanpariyar.github.io/myblog/docs/categories/</link>
     <description>Recent content in Categories on Jay Swaminarayan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
     
-	<atom:link href="https://vanpariyar.github.io/myblog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanpariyar.github.io/myblog/docs/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lifestyle</title>
+      <link>https://vanpariyar.github.io/myblog/docs/categories/lifestyle/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://vanpariyar.github.io/myblog/docs/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operations</title>
+      <link>https://vanpariyar.github.io/myblog/docs/categories/operations/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://vanpariyar.github.io/myblog/docs/categories/operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tour</title>
+      <link>https://vanpariyar.github.io/myblog/docs/categories/tour/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://vanpariyar.github.io/myblog/docs/categories/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working days</title>
+      <link>https://vanpariyar.github.io/myblog/docs/categories/working-days/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://vanpariyar.github.io/myblog/docs/categories/working-days/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
