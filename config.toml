@@ -1,0 +1,6 @@
+baseURL = "https://vanpariyar.github.io/myblog/"
+languageCode = "en-us"
+title = "Jay Swaminarayan"
+theme = "ananke"
+publishDir = "docs"
+
