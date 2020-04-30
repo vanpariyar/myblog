@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://vanpariyar.github.io/myblog/docs"
+baseURL = "https://vanpariyar.github.io/myblog/"
 title = "Jay Swaminarayan"
 theme = "twenty-twenty"
 languageName = "En"
@@ -14,6 +14,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "UA-123-45"
+
 publishDir = "docs"
 
 

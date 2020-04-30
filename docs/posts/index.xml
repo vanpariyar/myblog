@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jay Swaminarayan</title>
-    <link>https://vanpariyar.github.io/myblog/docs/posts/</link>
+    <link>https://vanpariyar.github.io/myblog/posts/</link>
     <description>Recent content in Posts on Jay Swaminarayan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Apr 2020 23:11:16 +0530</lastBuildDate>
     
-	<atom:link href="https://vanpariyar.github.io/myblog/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanpariyar.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://vanpariyar.github.io/myblog/docs/posts/my-first-post/</link>
+      <link>https://vanpariyar.github.io/myblog/posts/my-first-post/</link>
       <pubDate>Thu, 30 Apr 2020 23:11:16 +0530</pubDate>
       
-      <guid>https://vanpariyar.github.io/myblog/docs/posts/my-first-post/</guid>
+      <guid>https://vanpariyar.github.io/myblog/posts/my-first-post/</guid>
       <description></description>
     </item>
     

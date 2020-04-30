@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Jay Swaminarayan</title>
-    <link>https://vanpariyar.github.io/myblog/docs/blog/</link>
+    <link>https://vanpariyar.github.io/myblog/blog/</link>
     <description>Recent content in Blog on Jay Swaminarayan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
     
-	<atom:link href="https://vanpariyar.github.io/myblog/docs/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanpariyar.github.io/myblog/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>From Signac to Matisse</title>
-      <link>https://vanpariyar.github.io/myblog/docs/blog/post-4/</link>
+      <link>https://vanpariyar.github.io/myblog/blog/post-4/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://vanpariyar.github.io/myblog/docs/blog/post-4/</guid>
+      <guid>https://vanpariyar.github.io/myblog/blog/post-4/</guid>
       <description>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</description>
     </item>
     
     <item>
       <title>The Life I Deserve</title>
-      <link>https://vanpariyar.github.io/myblog/docs/blog/post-3/</link>
+      <link>https://vanpariyar.github.io/myblog/blog/post-3/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://vanpariyar.github.io/myblog/docs/blog/post-3/</guid>
+      <guid>https://vanpariyar.github.io/myblog/blog/post-3/</guid>
       <description>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</description>
     </item>
     
     <item>
       <title>Theatre of Operations</title>
-      <link>https://vanpariyar.github.io/myblog/docs/blog/post-2/</link>
+      <link>https://vanpariyar.github.io/myblog/blog/post-2/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://vanpariyar.github.io/myblog/docs/blog/post-2/</guid>
+      <guid>https://vanpariyar.github.io/myblog/blog/post-2/</guid>
       <description>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</description>
     </item>
     
     <item>
       <title>Works and Days</title>
-      <link>https://vanpariyar.github.io/myblog/docs/blog/post-1/</link>
+      <link>https://vanpariyar.github.io/myblog/blog/post-1/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://vanpariyar.github.io/myblog/docs/blog/post-1/</guid>
+      <guid>https://vanpariyar.github.io/myblog/blog/post-1/</guid>
       <description>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</description>
     </item>
     

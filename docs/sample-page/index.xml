@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sample Page on Jay Swaminarayan</title>
-    <link>https://vanpariyar.github.io/myblog/docs/sample-page/</link>
+    <link>https://vanpariyar.github.io/myblog/sample-page/</link>
     <description>Recent content in Sample Page on Jay Swaminarayan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vanpariyar.github.io/myblog/docs/sample-page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanpariyar.github.io/myblog/sample-page/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

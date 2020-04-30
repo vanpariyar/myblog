@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>operations on Jay Swaminarayan</title>
-    <link>https://vanpariyar.github.io/myblog/docs/categories/operations/</link>
+    <link>https://vanpariyar.github.io/myblog/categories/operations/</link>
     <description>Recent content in operations on Jay Swaminarayan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
     
-	<atom:link href="https://vanpariyar.github.io/myblog/docs/categories/operations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanpariyar.github.io/myblog/categories/operations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theatre of Operations</title>
-      <link>https://vanpariyar.github.io/myblog/docs/blog/post-2/</link>
+      <link>https://vanpariyar.github.io/myblog/blog/post-2/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://vanpariyar.github.io/myblog/docs/blog/post-2/</guid>
+      <guid>https://vanpariyar.github.io/myblog/blog/post-2/</guid>
       <description>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</description>
     </item>
     
