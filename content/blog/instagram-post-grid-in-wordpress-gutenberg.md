@@ -1,3 +1,18 @@
+---
+title: "How to use SOcial Gallary Block In wordpress"
+date: 2020-03-14T15:40:24+06:00
+image : "images/2020-three-quarters-1.png"
+# author
+author : ["Admin"]
+# categories
+categories: ["Working days"]
+tags: ["work", "day"]
+# meta description
+description: "Wordpress instagram post grid"
+# save as draft
+draft: false
+---
+
 Easy Doker Setup
 ```
 snap install docker
