@@ -15,6 +15,4 @@ jobs:
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: |
-          echo "Starts" >> log.json
-          echo "Ends" >> log.json
+        run: hugo
