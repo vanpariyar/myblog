@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://vanpariyar.github.io/myblog/"
-title = "Wlocome To Our Blog"
+title = "Welcome To Our Blog"
 theme = "twenty-twenty"
 languageName = "En"
 languageCode = "en-us"
@@ -75,7 +75,7 @@ weight = 2
 #################### default parameters ################################
 [params]
 # Meta data
-description = "Open sourse technology blog for the web developers with snippet and tutorial"
+description = "Open source technology blog for the web developers with snippets and tutorial"
 author = "vanpariyar"
 
 
