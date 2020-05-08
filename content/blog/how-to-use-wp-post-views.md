@@ -13,7 +13,7 @@ description: "Wordpress instagram post grid"
 draft: false
 ---
 
-# wp-post-views
+### wp-post-views
 
 use Docker To use this Plugin setup. (Not Compulasory)
 
@@ -40,15 +40,23 @@ Contribution is highly appriciated.
 NOTE : Make sure we are Developing the Plugin.:sweat_smile:
 Please Don't upload Whole wordpress setup.
 
-## Features:
+### Features:
 - We have option to show views count in the post coloumn.
 - (You can disable this)All views are filterd with IP address. To just make sure get right count
 -Support for the Custom post type by selecting menually in settings.
 
-INSTALLATION :
+### INSTALLATION :
 
 1) Upload the plugin in to your wp-content > Plugins folder
 2) You can change plugin settings in Admin panel > Settings > Wp Post View Settings
 3) There are some options are by default selected for you but you can Change it. 
 
 That's it Thanks.
+
+### Donate:
+
+<a href="https://www.buymeacoffee.com/vanpariyar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+OR
+
+[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don,t have to pay any money )
