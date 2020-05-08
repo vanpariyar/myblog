@@ -6,7 +6,7 @@ image : "https://user-images.githubusercontent.com/26689210/81397515-1b005900-91
 author : ["Admin"]
 # categories
 categories: ["Technology"]
-tags: ["google", "wordpress"]
+tags: ["Google", "Wordpress"]
 # meta description
 description: "How to use Google assistant with the Wordpress and use the webhook for fetch blog"
 # save as draft
