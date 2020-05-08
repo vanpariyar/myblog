@@ -81,8 +81,8 @@ author = "vanpariyar"
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = "The New World Opens its Doors"
+image = "images/blog-banner.png"
 
 # blog
 [params.blog]
@@ -101,10 +101,10 @@ button_url = "contact"
 enable = true
 
   [[params.gallery.gallery_item ]]
-  image = "images/2020-square-2.png"
+  image = "images/gellary-image-one.png"
   
   [[params.gallery.gallery_item ]]
-  image = "images/2020-square-1.png"
+  image = "images/gellary-image-two.png"
 
 
 # footer

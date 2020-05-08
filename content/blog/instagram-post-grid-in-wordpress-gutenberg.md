@@ -1,12 +1,13 @@
 ---
 title: "How to use SOcial Gallary Block In wordpress"
 date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-1.png"
+image : "https://user-images.githubusercontent.com/26689210/81413061-6e34d480-9162-11ea-9916-482aa3c747d6.png"
+
 # author
 author : ["Admin"]
 # categories
-categories: ["Working days"]
-tags: ["work", "day"]
+categories: ["Technology"]
+tags: ["Instagram", "Wordpress"]
 # meta description
 description: "Wordpress instagram post grid"
 # save as draft
@@ -80,4 +81,3 @@ Below you will find some information on how to run scripts.
 OR
 
 [Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don,t have to pay any money )
-
