@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://vanpariyar.github.io/myblog/"
-title = "Jay Swaminarayan"
+title = "Wlocome To Our Blog"
 theme = "twenty-twenty"
 languageName = "En"
 languageCode = "en-us"
@@ -114,5 +114,5 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 yelp = "#"
 facebook = "#"
 twitter = "#"
-instagram = "#"
+instagram = "https://instagram.com/ronak_vanpariya"
 email = "#"
