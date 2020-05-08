@@ -7,4 +7,6 @@ description: "This is meta description"
 draft: false
 ---
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+Thanks For Contact You can Connect me at :- vanpariyar@wordpress.chat.org (Reply in 24 hours).
+
+OR  https://vanpariyar.github.io

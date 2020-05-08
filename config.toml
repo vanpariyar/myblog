@@ -118,7 +118,7 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 ############################# social site ########################
 [params.social]
 yelp = "#"
-facebook = "#"
-twitter = "#"
+facebook = "http://facebook.com/ronak.vanpariya.12"
+twitter = "https://twitter.com/vanpariyaronakj"
 instagram = "https://instagram.com/ronak_vanpariya"
-email = "#"
+email = "mailto:vanpariyar@gmail.com"
