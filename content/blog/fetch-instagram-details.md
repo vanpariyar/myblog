@@ -2,6 +2,16 @@
 title: "Fetch Instagram Details"
 date: 2020-05-10T20:16:20+05:30
 draft: false
+image : "https://user-images.githubusercontent.com/26689210/81413061-6e34d480-9162-11ea-9916-482aa3c747d6.png"
+
+# author
+author : ["Admin"]
+# categories
+categories: ["Technology"]
+tags: ["Instagram", "Wordpress"]
+# meta description
+description: "How to fetch instagram details from API"
+
 ---
 
 # Get-instagram-details
