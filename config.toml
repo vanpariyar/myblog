@@ -15,6 +15,8 @@ disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "UA-165932508-1"
 
+enableEmoji = true
+
 publishDir = "docs"
 
 
