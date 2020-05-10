@@ -72,7 +72,7 @@ Below you will find some information on how to run scripts.
 
 ### Donate:
 
-<a href="https://www.buymeacoffee.com/vanpariyar"  rel="noopener"` or `rel="noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/vanpariyar"  rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 OR
 

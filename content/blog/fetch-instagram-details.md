@@ -2,7 +2,7 @@
 title: "Fetch Instagram Details"
 date: 2020-05-10T20:16:20+05:30
 draft: false
-image : "https://user-images.githubusercontent.com/26689210/81413061-6e34d480-9162-11ea-9916-482aa3c747d6.png"
+image : "https://user-images.githubusercontent.com/26689210/81502620-9f490c80-92fc-11ea-8775-43e099db29a8.png"
 
 # author
 author : ["Admin"]
@@ -82,7 +82,9 @@ ________________________________________________________________________________
 #### if Are You still reading this, :thumbsup: thank you so very much for your time :hourglass:.
 -:hand: if you are getting any errors you can make issue on this repo with proper details .
 
-<a href="https://www.buymeacoffee.com/vanpariyar" rel="noopener"` or `rel="noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+### Donate:
+
+<a href="https://www.buymeacoffee.com/vanpariyar"  rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 OR
 
