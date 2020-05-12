@@ -4,7 +4,7 @@ date: 2020-03-14T15:40:24+06:00
 image : "https://user-images.githubusercontent.com/26689210/81413061-6e34d480-9162-11ea-9916-482aa3c747d6.png"
 
 # author
-author : ["Admin"]
+author : ["Ronak Vanpariya"]
 # categories
 categories: ["Technology"]
 tags: ["Instagram", "Wordpress"]
