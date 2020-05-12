@@ -1,7 +1,7 @@
 ---
 title: "About"
 # meta description
-description: "This is meta description"
+description: "See the New Content every day. This is OpenSourse blog."
 # save as draft
 draft: false
 ---

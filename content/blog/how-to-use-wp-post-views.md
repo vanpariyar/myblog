@@ -4,7 +4,7 @@ date: 2020-03-14T15:40:24+06:00
 image : "https://user-images.githubusercontent.com/26689210/81412482-8e17c880-9161-11ea-86cc-60e2c1f3fa9a.png"
 
 # author
-author : ["Admin"]
+author : ["Ronak Vanpariya"]
 # categories
 categories: ["Technology"]
 tags: ["Wordpress"]

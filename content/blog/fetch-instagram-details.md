@@ -5,7 +5,7 @@ draft: false
 image : "https://user-images.githubusercontent.com/26689210/81502620-9f490c80-92fc-11ea-8775-43e099db29a8.png"
 
 # author
-author : ["Admin"]
+author : ["Ronak Vanpariya"]
 # categories
 categories: ["Technology"]
 tags: ["Instagram", "Wordpress"]
