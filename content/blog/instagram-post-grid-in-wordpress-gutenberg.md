@@ -76,4 +76,4 @@ Below you will find some information on how to run scripts.
 
 OR
 
-[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don,t have to pay any money )
+[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don't have to pay any money )

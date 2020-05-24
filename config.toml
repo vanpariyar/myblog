@@ -19,6 +19,12 @@ enableEmoji = true
 
 publishDir = "docs"
 
+############################## Heading Values###############################
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 ############################## Output ###############################
 [outputs]
