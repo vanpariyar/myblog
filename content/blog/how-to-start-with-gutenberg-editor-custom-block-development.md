@@ -67,9 +67,12 @@ fortunately, I have developed one Gutenberg WordPress plugin.
 
 Check out this on Wordpress Listing: [https://wordpress.org/plugins/social-gallery-block](https://wordpress.org/plugins/social-gallery-block)
 
-### Othe Demos
+### Other Demos
 [**vanpariyar/gutenberg-demo-esnext**
 *To get random Quote on Clicks. and saves in database. - vanpariyar/gutenberg-demo-esnext*github.com](https://github.com/vanpariyar/gutenberg-demo-esnext)
+
+### Thank You
+Thank you and canva ( For Beautiful designs ).
 
 ### Donate:
 
@@ -77,4 +80,4 @@ Check out this on Wordpress Listing: [https://wordpress.org/plugins/social-galle
 
 OR
 
-[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don,t have to pay any money )
+[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don't have to pay any money )
