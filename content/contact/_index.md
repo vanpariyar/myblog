@@ -7,6 +7,15 @@ description: "Feel free to contact us"
 draft: false
 ---
 
-Thanks For Contact You can Connect me at :- vanpariyar@wordpress.chat.org (Reply in 24 hours).
+Thanks For Contact You can Connect me at :- vanpariyar@wordpress.chat.org (Reply in 24 hours). 
 
 OR  https://vanpariyar.github.io
+
+## Social Link  :mailbox_with_mail:
+| Site Name | Link |
+|----|---------|
+| GitHub | https://github.com/vanpariyar |
+| Twitter | https://twitter.com/vanpariyaronakj|
+| LinkedIN | https://www.linkedin.com/in/ronak-v-7216b3b9/ |
+| Instagarm | https://instagram.com/ronak_vanpariya |
+| Facebook | http://facebook.com/ronak.vanpariya.12 |

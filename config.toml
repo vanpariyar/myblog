@@ -62,10 +62,6 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
 
 # only desktop menu
 [[menu.desktop]]
@@ -74,9 +70,19 @@ URL = "contact"
 weight = 1
 
 [[menu.desktop]]
-name = "TO Edit This Site"
-URL = "https://github.com/vanpariyar/myblog/tree/writing/content/blog"
+name = "About"
+URL = "about"
 weight = 2
+
+[[menu.desktop]]
+name = "Blog Listing"
+URL = "blog"
+weight = 3
+
+[[menu.desktop]]
+name = "Click to Edit Site"
+URL = "https://github.com/vanpariyar/myblog/tree/writing/content/blog"
+weight = 4
 
 
 
