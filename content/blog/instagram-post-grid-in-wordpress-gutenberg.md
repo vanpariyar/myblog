@@ -74,6 +74,4 @@ Below you will find some information on how to run scripts.
 
 <a href="https://www.buymeacoffee.com/vanpariyar" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
-OR
-
-[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don't have to pay any money )
+OR [Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don't have to pay any money )
