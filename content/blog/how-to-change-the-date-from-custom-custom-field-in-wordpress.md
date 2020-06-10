@@ -6,9 +6,9 @@ image : "https://user-images.githubusercontent.com/26689210/82824334-c4c24280-9e
 author : ["Ronak Vanpariya"]
 # categories
 categories: ["Technology"]
-tags: ["hooks", "Wordpress","fliters"]
+tags: ["hooks", "Wordpress","filters"]
 # meta description
-description: "Learn how to change the date in wordpress by custom field or meta field."
+description: "Learn how to change the date in WordPress by custom field or meta field."
 # save as draft
 draft: false
 ---
@@ -22,9 +22,9 @@ we will use WordPress `get_the_date()` Hook.
 I will explain both. If you have created meta field for date `post_custom_date`. OR using [ACF](https://wordpress.org/plugins/advanced-custom-fields/) created field with name `post_custom_date`.
 
 ## Inspiration
-When i was developing site with [Divi theme](https://www.elegantthemes.com/gallery/divi/) there are custom post listing module but i don't want date of publish post insted i want my custom date which i have create with [ACF](https://wordpress.org/plugins/advanced-custom-fields/).
+When I was developing the site with [Divi theme](https://www.elegantthemes.com/gallery/divi/) there is a custom post listing module but I don't want the date of publishing post instead i want my custom date which I have created with [ACF](https://wordpress.org/plugins/advanced-custom-fields/).
 
-So i have searched and found this solution Enjoy. :tada:
+So I have searched and found this solution Enjoy. :tada:
 
 Put this code in `functions.php` file.
 
@@ -81,6 +81,4 @@ Thank you and canva ( For Beautiful designs ).
 
 <a href="https://www.buymeacoffee.com/vanpariyar" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
-OR
-
-[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don't have to pay any money )
+OR [Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will receive small commission by signing, You don't have to pay any money )

@@ -43,7 +43,7 @@ Gutenberg is developed on the top of [React](https://reactjs.org/).
 
 ### Can I use Hooks like react
 
-yes, you can use. You can pull out from wp.element.
+yes, you can use it. You can pull out from wp.element.
 
  1. useState()
 
@@ -63,7 +63,7 @@ This is my simple Demo you can check it out:- [https://github.com/vanpariyar/gut
 
 fortunately, I have developed one Gutenberg WordPress plugin.
 [**vanpariyar/gutenberg-instagram-post-grid**
-*Easy Doker Setup snap install docker pip install docker-compose docker-compose up goto : http://localhost:8080/ Enter…*github.com](https://github.com/vanpariyar/gutenberg-instagram-post-grid)
+*Easy Doker Setup snap install docker pip install docker-compose docker-compose up goto: http://localhost:8080/ Enter…*github.com](https://github.com/vanpariyar/gutenberg-instagram-post-grid)
 
 Check out this on Wordpress Listing: [https://wordpress.org/plugins/social-gallery-block](https://wordpress.org/plugins/social-gallery-block)
 
@@ -80,4 +80,4 @@ Thank you and canva ( For Beautiful designs ).
 
 OR
 
-[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don't have to pay any money )
+[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will receive small commission by signing, You don't have to pay any money )
