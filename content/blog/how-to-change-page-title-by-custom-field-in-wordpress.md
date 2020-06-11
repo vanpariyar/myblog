@@ -8,14 +8,14 @@ author : ["Ronak Vanpariya"]
 categories: ["Technology"]
 tags: ["hooks", "Wordpress"]
 # meta description
-description: "Learn how to change the page title in wordpress by custom field or meta field."
+description: "Learn how to change the page title in WordPress by custom field or meta field."
 # save as draft
 draft: false
 ---
 
 ## Prerequisite
 
-If i get right you are came here to change this :blush:	see in Pic below.
+If I get right you come here to change this :blush: see in Pic below.
 
 ![How to Change Page Title by Custom Field in Wordpress](https://user-images.githubusercontent.com/26689210/82746322-014d4b80-9dac-11ea-850c-e9c085ced98f.png)
 
@@ -33,7 +33,7 @@ Let's say we have custom field meta key `_custom_post_name`.
 
 If you have created the [ACF](https://www.advancedcustomfields.com/) field then your field name will be "_" + `your_field_name` means if you have created `page_title` then your meta key will be `_page_title`. :thumbsup:
 
-## how to modify title ?
+## how to modify title?
 
 - For any single Page or Post
 
@@ -51,18 +51,18 @@ add_filter( 'wp_title', 'change_page_title_callabck', 10 , 2 );
 function change_page_title_callabck( $title , $separator)
 {
     /**
-    * To change title on your single or post page
+    * To change the title on your single or post page
     */
-	if( is_single() ){ 
+    if( is_single() ){ 
         // Add your meta key here
         $custom_post_title = get_post_meta( get_the_ID(),'add_your_meta_key', true);
         if( $custom_post_title ){
             $title = $custom_post_title ." ".$seprator." ";
         }
         
-	}
-	return $title;
-	
+    }
+    return $title;
+    
 }
 ?>
 ```
@@ -83,25 +83,25 @@ add_filter( 'wp_title', 'change_page_title_callabck', 10 , 2 );
 function change_page_title_callabck( $title , $separator)
 {
     /**
-    * To change title on your single or post page
+    * To change the title on your single or post page
     */
-	if( is_single() && 'custom_post_type' == get_post_type() ){ 
+    if( is_single() && 'custom_post_type' == get_post_type() ){ 
         // Add your meta key here
         $custom_post_title = get_post_meta( get_the_ID(),'add_your_meta_key', true);
         if( $custom_post_title ){
             $title = $custom_post_title ." ".$seprator." ";
         }
         
-	}
-	return $title;
-	
+    }
+    return $title;
+    
 }
 ?>
 ```
 
 ----
 
-## For diffrent Pages ?
+## For different Pages?
 
 - for category you can use `is_cat()` OR `is_tax()`.
 - for archive you can use `is_archive()`.
@@ -124,4 +124,4 @@ Thank you and canva ( For Beautiful designs ).
 
 OR
 
-[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will recieve small commition by signing, You don't have to pay any money )
+[Join Buy me A Coffee](https://buymeacoff.ee/?via=vanpariyar) ( I will receive small commission by signing, You don't have to pay any money )
