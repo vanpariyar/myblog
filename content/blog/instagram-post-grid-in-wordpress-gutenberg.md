@@ -46,7 +46,14 @@ Welcome You to develop This Plugin More efficient.
 
 ![Screenshot from 2020-03-31 19-07-35](https://user-images.githubusercontent.com/26689210/78034091-dda9ee00-7384-11ea-85b9-f68dfddf3aac.png)
 
-------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Thanks for the reading :+1:
+
+#### Have any doubts or suggetions :thinking_face:  
+Feel free to [connect]({{< ref "contact" >}}) social media platform given on this page :- [Contact page]({{< ref "contact" >}})
+
+-
 This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
 
 Below you will find some information on how to run scripts.
