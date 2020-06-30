@@ -35,6 +35,7 @@ function get_random_element( $array_of_element ){
 }
 ?>
 ```
+----
 
 ### How to generate random indexes from the array.
 - we have used this code to loop the above-mentioned function.
@@ -53,6 +54,8 @@ function get_random_array( $array_of_element, $count_return ){
 }
 ?>
 ```
+---
+
 ### How to generate random elements from the array.
 In this function, we have used the above function the same to get random indexes from the array.
 
@@ -68,6 +71,8 @@ function get_random_values( $array_of_element, $count_return = 3 ){
 }
 ?>
 ```
+
+---
 
 ### Protip
 
@@ -102,9 +107,11 @@ function get_random_values( $array_of_element, $count_return = 3 ){
 ?>
 ```
 
+---
+
 ### conclution 
 
-- You can call it like
+- You can call this function like:
 
 ```php {linenos=false,hl_lines=[3],linenostart=1}
 <?php
@@ -112,12 +119,15 @@ function get_random_values( $array_of_element, $count_return = 3 ){
 $large_array = array( 10, 25, 85, 47, 78, 89, 79, 258, 74, 2 );
 
 /**
-* $arg-1 is array of elements , $arg-2 is number to be return
+ * $arg-1 is array of elements , 
+ * $arg-2 is number of elements to be return
 */
 $random_array = get_random_values( $large_array, 4 );
 
 ?>
 ```
+
+---
 
 Thanks for the reading :+1:
 
