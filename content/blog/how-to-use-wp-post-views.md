@@ -52,7 +52,11 @@ Please Don't upload Whole wordpress setup.
 2) You can change plugin settings in Admin panel > Settings > Wp Post View Settings
 3) There are some options are by default selected for you but you can Change it. 
 
-That's it Thanks.
+Thanks for the reading :+1:
+
+#### Have any doubts or suggetions :thinking_face: 
+Feel free to [connect]({{< ref "contact" >}}) social media platform given on this page :- [Contact page]({{< ref "contact" >}})
+
 
 ### Donate:
 

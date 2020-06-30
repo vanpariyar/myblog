@@ -74,6 +74,12 @@ Check out this on Wordpress Listing: [https://wordpress.org/plugins/social-galle
 ### Thank You
 Thank you and canva ( For Beautiful designs ).
 
+Thanks for the reading :+1:
+
+#### Have any doubts or suggetions :thinking_face: 
+Feel free to [connect]({{< ref "contact" >}}) social media platform given on this page :- [Contact page]({{< ref "contact" >}})
+
+
 ### Donate:
 
 <a href="https://www.buymeacoffee.com/vanpariyar" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
