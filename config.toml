@@ -62,6 +62,10 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
+[[menu.main]]
+name = "Tools"
+URL = "tools"
+weight = 5
 
 # only desktop menu
 [[menu.desktop]]
@@ -75,15 +79,19 @@ URL = "about"
 weight = 2
 
 [[menu.desktop]]
-name = "Blog Listing"
+name = "Blog"
 URL = "blog"
 weight = 3
 
 [[menu.desktop]]
-name = "Click to Edit Site"
+name = "Edit on Guithub"
 URL = "https://github.com/vanpariyar/myblog/tree/writing/content/blog"
 weight = 4
 
+[[menu.desktop]]
+name = "Tools"
+URL = "tools"
+weight = 5
 
 
 #################### default parameters ################################
